@@ -3,3 +3,9 @@ h3{
     color:aliceblue;
     text-align:center;
 }
+
+p{
+    color:white;
+    background-color: rgb(47, 179, 137);
+    text-align:left;
+}
