@@ -16,7 +16,7 @@ p{
 }
 
 body{
-    background-color: rgb(1, 22, 16);
+    background-color: rgb(192, 206, 202);
 }
 
 
@@ -29,4 +29,19 @@ body{
 .subheader{
     color:rgb(166, 158, 158);
     text-align:center;
+}
+
+/*id selector we use create unique id for each element*/
+#para-2{
+
+    background-color:rgb(105, 14, 88);
+}
+
+/*universal selector*/
+
+*{
+
+
+    margin:0;
+    padding:0;
 }
