@@ -16,7 +16,7 @@ p{
 }
 
 body{
-    background-color: rgb(192, 206, 202);
+    background-color: rgb(7, 9, 9);
 }
 
 
@@ -37,7 +37,7 @@ body{
     background-color:rgb(105, 14, 88);
 }
 
-/*universal selector*/
+/*universal selector
 
 *{
 
@@ -45,3 +45,15 @@ body{
     margin:0;
     padding:0;
 }
+*/
+.aboutheader{
+
+    color:white;
+    background-color:rgb(24, 130, 24);
+    font-family: monospace;
+    font-size:xx-large;
+    text-align:center;
+    letter-spacing: 1cap;
+    text-decoration: underline double;
+}
+
