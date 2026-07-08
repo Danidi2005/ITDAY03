@@ -15,26 +15,32 @@ p{
     text-align:left;
 }
 
-body{
+/* body{
     background-color: rgb(7, 9, 9);
-}
+} */
 
 
 /*class selector*/
 .point{
 
     background-color:rgb(54, 68, 176);
+    padding-top:50px;
+    padding-right:40px;
+    padding-bottom:10px;
+    padding-left:20px;
 }
 
 .subheader{
     color:rgb(166, 158, 158);
     text-align:center;
+    padding:50px;
 }
 
 /*id selector we use create unique id for each element*/
 #para-2{
 
     background-color:rgb(105, 14, 88);
+    padding:20px 40px 20px 40px;  /*anticlock wise */
 }
 
 /*universal selector
